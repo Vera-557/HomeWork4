@@ -1,9 +1,11 @@
 /*Вводится значение от 1 до 4. Вывести на консоль:
 Зима, если введено 1, Весна — 2, Лето — 3, Осень — 4
  */
+
 import java.util.Scanner;
+
 public class Zadacha2 {
-    public Zadacha2(){
+    public Zadacha2() {
         System.out.println("Введите номер месяца года");
         int nomerMesjaca = new Scanner(System.in).nextInt();
         switch (nomerMesjaca) {
