@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 public class Zadacha3_1 {
     public Zadacha3_1() {
         System.out.println("Введите три значения");

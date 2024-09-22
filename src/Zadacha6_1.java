@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 public class Zadacha6_1 {
     public Zadacha6_1() {
         System.out.println("Здравствуйте, я ваш персональный помощник на кухне!");

@@ -1,4 +1,4 @@
-
+//
 import java.util.Scanner;
 
 public class Zadacha2_2 {

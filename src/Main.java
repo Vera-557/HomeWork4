@@ -15,6 +15,6 @@ public class Main {
         Zadacha7 zd7 = new Zadacha7();
         Zadacha8 zd8 = new Zadacha8();
         Zadacha9 zd9 = new Zadacha9();
-
+//
     }
 }

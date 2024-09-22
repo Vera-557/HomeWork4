@@ -1,5 +1,5 @@
 //Напишите по этой блок-схеме программу, если x = 6, а затем x = -2
-
+//
 import java.util.Scanner;
 
 public class Zadacha1 {
